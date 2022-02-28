@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm SANKET CHOUDHARY</h1>
-<h3 align="center">I am a student of BCA at AMITY UNIVERSITY KOLKATA</h3>
-<h3 align="center">SMALL PROGRAMMER</h3>
-<h3 align="center">I Love to learn new things everyday</h3>
+<h1 align="LEFT">Hi 👋, I'm SANKET CHOUDHARY</h1>
+<h3 align="LEFT">I am a student of BCA at AMITY UNIVERSITY KOLKATA</h3>
+<h3 align="LEFT">SMALL PROGRAMMER</h3>
+<h3 align="LEFT">I Love to learn new things everyday</h3>
 
 
 - 📫 How to reach me **sanketchoudhary2002@gmail.com**
