@@ -26,3 +26,6 @@
 <p><img align="center" src="http://github-readme-stats.vercel.app/api/top-langs?username= SANKETKISHU &show icon=true&locale=en&layout=compact" />
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SANKETKISHU&theme=dark&show_icons=true)
+
+## Snake editing my contribution graph
+![snake gif](https://github.com/SANKETKISHU/SANKETKISHU/blob/output/github-contribution-grid-snake.gif)
