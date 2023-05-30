@@ -27,5 +27,4 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SANKETKISHU&theme=dark&show_icons=true)
 
-# MY CONTRIBUTION GRAPH
-![snake gif](https://github.com/SANKETKISHU/SANKETKISHU/blob/output/github-contribution-grid-snake.gif)
+
