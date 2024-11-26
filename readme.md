@@ -14,7 +14,7 @@
 
 ### 🌟 **Featured Projects:**
 
-- - **[Hate Speech Detection](https://github.com/SANKETKISHU/HATE_SPEECH_DETECTION):** A Python project to detect hate speech in text using machine learning models.  
+- **[Hate Speech Detection](https://github.com/SANKETKISHU/HATE_SPEECH_DETECTION):** A Python project to detect hate speech in text using machine learning models.  
 - **[Speech Recognition (Python)](https://github.com/SANKETKISHU/Speech_Recognition_PYTHON):** Python program for recognizing speech and converting it to text using various speech recognition libraries.  
 - **[Loan Approval Prediction](https://github.com/SANKETKISHU/Loan_Approval_Prediction):** A machine learning model to predict loan approval based on various applicant features.  
 - **[Titanic Dataset Preprocessing & Logistic Regression](https://github.com/SANKETKISHU/titanic_data_preprocessing/tree/main):** A project focused on data cleaning and logistic regression for Titanic dataset classification.  
