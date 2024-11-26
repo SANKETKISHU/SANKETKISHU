@@ -1,12 +1,14 @@
 <h1 align="center">Hi 👋, I'm SANKET CHOUDHARY</h1>
-<h3 align="center">MCA Student | Data Science Intern | Passionate About Machine Learning, Web Development, and Innovation</h3>
+<h3 align="center">MCA Student @Manipal University Jaipur | BCA @Amity University Kolkata | Ex-Intern @Celebal Technologies | Ex-Intern @Travarsa Private Limited | Passionate About AI, Machine Learning, Data Science, and Innovation</h3>
 
 <img align="right" src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" alt="Coding Animation" width="350"/>
 
-- 🔭 I’m currently interning at **Celebal Technologies** (Data Science Division)  
-- 🌱 I’m exploring **MERN Stack Development** and **Machine Learning**  
-- 💡 Working on various NLP and AI projects  
-- 📫 Reach me at **[sanketchoudhary2002@gmail.com](mailto:sanketchoudhary2002@gmail.com)**
+- 🔭 I’ve completed my internship at **Celebal Technologies** (Data Science Division)  
+- 🌱 I’ve also interned at **Travarsa Private Limited** (Web Designing and Optimization)  
+- 💡 Currently exploring **MERN Stack Development**, **AI/ML**, **Data Science**, and **Natural Language Processing (NLP)**  
+- 📫 Reach me at **[sanketchoudhary2002@gmail.com](mailto:sanketchoudhary2002@gmail.com)**  
+- 🌐 Check out my LinkedIn: [Sanket Choudhary](https://www.linkedin.com/in/sanket-choudhary-2030a819b/)
+
 
 ---
 
