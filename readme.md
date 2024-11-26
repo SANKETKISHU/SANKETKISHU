@@ -1,63 +1,101 @@
 <h1 align="center">Hi 👋, I'm SANKET CHOUDHARY</h1>
-<h3 align="center">MCA Student | Exploring Code, Creativity, and Innovation</h3>
+<h3 align="center">MCA Student | Data Science Intern | Passionate About Machine Learning, Web Development, and Innovation</h3>
 
-<img align="right" src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" />
+<img align="right" src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" alt="Coding Animation" width="350"/>
 
-- 🔭 I’m currently working on [Celebal Technologies as intern](Data Science)
+- 🔭 I’m currently interning at **Celebal Technologies** (Data Science Division)  
+- 🌱 I’m exploring **MERN Stack Development** and **Machine Learning**  
+- 💡 Working on various NLP and AI projects  
+- 📫 Reach me at **[sanketchoudhary2002@gmail.com](mailto:sanketchoudhary2002@gmail.com)**
 
-- 🌱 I’m currently learning **Mern FullStack Development**
+---
 
-- 📫 How to reach me **sanketchoudhary2002@gmail.com**
+### 🌟 **Featured Projects:**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/sanketc45062294" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sanketc45062294" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/sanket choudhary" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sanket choudhary" height="30" width="40" /></a>
-<a href="https://fb.com/sanket choudhary" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sanket choudhary" height="30" width="40" /></a>
-<a href="https://instagram.com/kishu.sanket" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kishu.sanket" height="30" width="40" /></a>
-</p>
+- **[Hate Speech Detection](https://github.com/SANKETKISHU/HATE_SPEECH_DETECTION):** A Python project to detect hate speech in text using machine learning models.  
+- **[Speech Recognition (Python)](https://github.com/SANKETKISHU/Speech_Recognition_PYTHON):** Python program for recognizing speech and converting it to text using various speech recognition libraries.  
+- **[Loan Approval Prediction](https://github.com/SANKETKISHU/Loan-Approval-Prediction):** A machine learning model to predict loan approval based on various applicant features.  
+- **[Titanic Dataset Preprocessing & Logistic Regression](https://github.com/SANKETKISHU/Titanic-Dataset-Preprocessing):** A project focused on data cleaning and logistic regression for Titanic dataset classification.  
+- **[Pose Estimation Using OpenCV](https://github.com/SANKETKISHU/Pose-Estimation_OpenCV_MediaPipe):** Detects body poses using MediaPipe and OpenCV.  
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
-<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
-<a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> 
-<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> 
-<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
-<a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> 
-<a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> 
-<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> 
-<a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> 
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-</p>
+---
 
+### ## **GitHub Statistics**
 
-### ⚙️ &nbsp;Sanket's GitHub Analytics
-<p align="center">
-<a href="https://github.com/SANKETKISHU">
-<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=SANKETKISHU&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=SANKETKISHU&layout=compact&langs_count=8&theme=nightowl"/>
-</a>
-</p>
+![](https://komarev.com/ghpvc/?username=SANKETKISHU&color=green)  
 
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
-  />
-  <img
-    alt="github contribution grid snake animation"
-    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
-  />
-</picture>
+![](https://github-profile-trophy.vercel.app/?username=SANKETKISHU&theme=flat&no-frame=true&row=1&column=6&margin-w=5&margin-h=5&count_private=true&bgColor=#f5f5f5&title=Followers,Stars,Repositories,Commit,MultiLanguage)
+
+---
+
+| ![Sanket Choudhary's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SANKETKISHU&show_icons=true&theme=radical) | [![Sanket Choudhary's Streak](https://streak-stats.demolab.com?user=SANKETKISHU&theme=dark&border_radius=7&mode=weekly)](https://git.io/streak-stats) |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
+| [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SANKETKISHU&layout=compact&&show_icons=true&theme=radical)](https://github.com/SANKETKISHU/github-readme-stats) |                                                               |
+
+[![Sanket Choudhary's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SANKETKISHU&bg_color=121212&color=d01bc4&line=9e4c98&point=dd13a7&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+---
+
+### 🔥 **Snake Game Stats**
 
 <p align="center">
  <img src="https://komarev.com/ghpvc/?username=SANKETKISHU&style=flat-square"/>
  <img src="https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub+Followers&labelColor=282c34&color=181717&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3DSANKETKISHU&longCache=true"/>
+</p>
+
+
+---
+
+## ⚡ **Technologies I use**
+
+<div align="center">
+<table align="center">
+    <tr>
+        <td align="center" width="140" height="112.43">
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="65px"/>
+            <br /> Python
+        </td>
+        <td align="center" width="140" height="112.43">
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="65px"/>
+            <br /> React
+        </td>
+        <td align="center" width="140" height="112.43">
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="65px"/>
+            <br /> MongoDB
+        </td>
+        <td align="center" width="140" height="112.43">
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="65px"/>
+            <br /> Node.js
+        </td>
+        <td align="center" width="140" height="112.43">
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="65px"/>
+            <br /> JavaScript
+        </td>
+        <td align="center" width="140" height="112.43">
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" width="65px"/>
+            <br /> Git
+        </td>
+        <td align="center" width="140" height="112.43">
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" width="65px"/>
+            <br /> OpenCV
+        </td>
+    </tr>
+</table>
+</div>
+
+---
+
+### 🔗 **Connect with Me:**
+
+<p align="left">
+<a href="https://twitter.com/sanketc45062294" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/sanket-choudhary-2030a819b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+<a href="https://fb.com/sanket.choudhary" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" /></a>
+<a href="https://instagram.com/kishu.sanket" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
+</p>
+
+---
+
+<p align="center">
+ <img src="https://komarev.com/ghpvc/?username=SANKETKISHU&style=flat-square" alt="Profile Views"/>
 </p>
