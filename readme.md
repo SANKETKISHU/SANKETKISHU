@@ -42,7 +42,8 @@
 
 ---
 
-## ⚡ **Technologies I use**
+
+## ⚡ **Technologies I Use**
 
 <div align="center">
 <table align="center">
@@ -68,6 +69,16 @@
             <br /> JavaScript
         </td>
         <td align="center" width="140" height="112.43">
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="65px"/>
+            <br /> Java
+        </td>
+    </tr>
+    <tr>
+        <td align="center" width="140" height="112.43">
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="65px"/>
+            <br /> C++
+        </td>
+        <td align="center" width="140" height="112.43">
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" width="65px"/>
             <br /> Git
         </td>
@@ -75,9 +86,76 @@
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" width="65px"/>
             <br /> OpenCV
         </td>
+        <td align="center" width="140" height="112.43">
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="65px"/>
+            <br /> HTML5
+        </td>
+        <td align="center" width="140" height="112.43">
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="65px"/>
+            <br /> CSS3
+        </td>
+        <td align="center" width="140" height="112.43">
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="65px"/>
+            <br /> Bootstrap
+        </td>
+    </tr>
+    <tr>
+        <td align="center" width="140" height="112.43">
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="65px"/>
+            <br /> TensorFlow
+        </td>
+        <td align="center" width="140" height="112.43">
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="65px"/>
+            <br /> NumPy
+        </td>
+        <td align="center" width="140" height="112.43">
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="65px"/>
+            <br /> Pandas
+        </td>
+        <td align="center" width="140" height="112.43">
+            <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="65px"/>
+            <br /> Scikit-learn
+        </td>
+        <td align="center" width="140" height="112.43">
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" width="65px"/>
+            <br /> Jupyter
+        </td>
+        <td align="center" width="140" height="112.43">
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="65px"/>
+            <br /> Docker
+        </td>
+    </tr>
+    <tr>
+        <td align="center" width="140" height="112.43">
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" width="65px"/>
+            <br /> Kubernetes
+        </td>
+        <td align="center" width="140" height="112.43">
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" width="65px"/>
+            <br /> Visual Studio
+        </td>
+        <td align="center" width="140" height="112.43">
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/anaconda/anaconda-original.svg" width="65px"/>
+            <br /> Anaconda
+        </td>
+        <td align="center" width="140" height="112.43">
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg" width="65px"/>
+            <br /> Ubuntu
+        </td>
+        <td align="center" width="140" height="112.43">
+            <img src="https://www.kali.org/images/kali-logo.svg" width="65px"/>
+            <br /> Kali Linux
+        </td>
+        <td align="center" width="140" height="112.43">
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="65px"/>
+            <br /> MySQL
+        </td>
     </tr>
 </table>
 </div>
+
+
+
 
 ---
 
