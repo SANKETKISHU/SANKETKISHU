@@ -159,14 +159,23 @@
 
 ---
 
-### 🔗 **Connect with Me:**
+# 🔗 **Connect with Me:**
 
-<p align="left">
-<a href="https://twitter.com/sanketc45062294" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/sanket-choudhary-2030a819b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-<a href="https://fb.com/sanket.choudhary" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" /></a>
-<a href="https://instagram.com/kishu.sanket" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
-</p>
+<div align="center">
+    <a href="https://twitter.com/sanketc45062294" target="_blank" style="margin: 0 25px;">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
+    </a>
+    <a href="https://linkedin.com/in/sanket-choudhary-2030a819b" target="_blank" style="margin: 0 25px;">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+    </a>
+    <a href="https://fb.com/sanket.choudhary" target="_blank" style="margin: 0 25px;">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
+    </a>
+    <a href="https://instagram.com/kishu.sanket" target="_blank" style="margin: 0 25px;">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
+    </a>
+</div>
+
 
 ---
 
