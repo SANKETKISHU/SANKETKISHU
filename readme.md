@@ -23,7 +23,7 @@
 
 ---
 
-### ## **GitHub Statistics**
+###  **GitHub Statistics**
 
 ![](https://komarev.com/ghpvc/?username=SANKETKISHU&color=green)  
 
