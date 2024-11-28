@@ -39,6 +39,8 @@
 
 ---
 
+[![An image of @kishusanket's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/kishusanket)](https://holopin.io/@kishusanket)
+
 
 
 ## ⚡ **Technologies I Use**
