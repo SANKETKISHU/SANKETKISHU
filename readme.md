@@ -169,7 +169,7 @@
     <a href="https://linkedin.com/in/sanket-choudhary-2030a819b" target="_blank" style="margin: 0 25px;">
         <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
     </a>
-    <a href="https://fb.com/sanket.choudhary" target="_blank" style="margin: 0 25px;">
+    <a href="[https://fb.com/sanket.choudhary](https://www.facebook.com/sanket.choudhary.3954?mibextid=ZbWKwL)" target="_blank" style="margin: 0 25px;">
         <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
     </a>
     <a href="https://instagram.com/kishu.sanket" target="_blank" style="margin: 0 25px;">
