@@ -35,6 +35,7 @@
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SANKETKISHU&layout=compact&&show_icons=true&theme=radical)](https://github.com/SANKETKISHU/github-readme-stats) | [![Sanket's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SANKETKISHU&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph) |
 
+[![Sanket Choudhary's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SANKETKISHU&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 ---
