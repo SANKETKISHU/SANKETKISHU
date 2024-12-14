@@ -33,9 +33,9 @@
 
 | ![Sanket Choudhary's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SANKETKISHU&show_icons=true&theme=radical) | [![Sanket Choudhary's Streak](https://streak-stats.demolab.com?user=SANKETKISHU&theme=dark&border_radius=7&mode=weekly)](https://git.io/streak-stats) |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SANKETKISHU&layout=compact&&show_icons=true&theme=radical)](https://github.com/SANKETKISHU/github-readme-stats) |                                                               |
+| [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SANKETKISHU&layout=compact&&show_icons=true&theme=radical)](https://github.com/SANKETKISHU/github-readme-stats) | [![Sanket's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SANKETKISHU&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph) |
 
-[![Sanket Choudhary's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SANKETKISHU&bg_color=121212&color=d01bc4&line=9e4c98&point=dd13a7&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 
 ---
 
